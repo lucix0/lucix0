@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lucyna
+## Hi there 👋 I'm Brooks
 
 ### 🤔 &nbsp;About Me
 - 🎓️ &nbsp; Currently studying Computer Engineering at Illinois Institute of Technology
