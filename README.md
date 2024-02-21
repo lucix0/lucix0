@@ -1,9 +1,9 @@
-## Hi there 👋 I'm Brooks
+## Hi there 👋 I'm Brooke
 
 ### 🤔 &nbsp;About Me
 - 🎓️ &nbsp; Currently studying Computer Engineering at Illinois Institute of Technology
 - 🌱 &nbsp; Currently learning graphics programming and web development
-- 🔥 &nbsp; Dark Souls enjoyer
+- 🎸 &nbsp; Amateur guitarist
 
 ### 📂 Current Projects
 - 🎥 &nbsp; **Icarus [[repo](https://github.com/lucix0/icarus)]:** A rudimentary OpenGL renderer written in C++
