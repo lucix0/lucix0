@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Brooke
+## Hi there 👋
 
 ### 🤔 &nbsp;About Me
 - 🎓️ &nbsp; Currently studying Computer Engineering at Illinois Institute of Technology
