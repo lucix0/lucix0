@@ -2,7 +2,7 @@
 
 ### 🤔 &nbsp;About Me
 - 🎓️ &nbsp; Currently studying Computer Engineering at Illinois Institute of Technology
-- 🌱 &nbsp; Currently learning graphics programming and web development
+- 🌱 &nbsp; Currently learning embedded systems and graphics programming
 - 🎸 &nbsp; Amateur guitarist
 
 ### 📂 Current Projects
