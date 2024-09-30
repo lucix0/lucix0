@@ -2,11 +2,9 @@
 
 ### 🤔 &nbsp;About Me
 - 🎓️ &nbsp; Currently studying Computer Engineering at Illinois Institute of Technology
-- 🌱 &nbsp; Currently learning embedded systems and graphics programming
-- 🎸 &nbsp; Amateur guitarist
 
 ### 📂 Current Projects
-- 🎥 &nbsp; **Icarus [[repo](https://github.com/lucix0/icarus)]:** A rudimentary OpenGL renderer written in C++
+- ❌ &nbsp; None
 
 ### 📁 Previous Projects
 - 💵 &nbsp; **P33 Budget Dashboard [[repo](https://github.com/lucix0/p33-budget-dashboard)]:** A basic budget management web app written in Python using Flask
