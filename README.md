@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### 🤔 &nbsp;About Me
-- 🎓️ &nbsp; Currently studying Computer Engineering at Illinois Institute of Technology
+- 🎓️ &nbsp; Studying Computer Engineering at Illinois Institute of Technology
+- 📚 &nbsp; Self-studying embedded development
 
 ### 📂 Current Projects
 - ❌ &nbsp; None
