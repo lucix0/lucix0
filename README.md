@@ -2,10 +2,10 @@
 
 ### 🤔 &nbsp;About Me
 - 🎓️ &nbsp; Studying Computer Engineering at Illinois Institute of Technology
-- 📚 &nbsp; Self-studying embedded development
+- 📚 &nbsp; Interested in graphics and embedded systems
 
 ### 📂 Current Projects
-- ❌ &nbsp; None
+- 🖥️ &nbsp; **Engine [[repo](https://github.com/lucix0/Engine)]:** A simple rendering engine created with BGFX in C++
 
 ### 📁 Previous Projects
 - 💵 &nbsp; **P33 Budget Dashboard [[repo](https://github.com/lucix0/p33-budget-dashboard)]:** A basic budget management web app written in Python using Flask
