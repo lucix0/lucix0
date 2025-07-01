@@ -5,7 +5,7 @@
 - 📚 &nbsp; Interested in graphics and embedded systems
 
 ### 📂 Current Projects
-- 🖥️ &nbsp; **Engine [[repo](https://github.com/lucix0/Engine)]:** A simple rendering engine created with BGFX in C++
+- 🖥️ &nbsp; **Engine [[repo](https://github.com/lucix0/Engine)]:** A simple rendering engine created with OpenGL in C++
 
 ### 📁 Previous Projects
 - 💵 &nbsp; **P33 Budget Dashboard [[repo](https://github.com/lucix0/p33-budget-dashboard)]:** A basic budget management web app written in Python using Flask
