@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🤔 &nbsp;About Me
-- 🎓️ &nbsp; Studying Computer Engineering at Illinois Institute of Technology
-- 📚 &nbsp; Interested in graphics and embedded systems
+- 🎓️ &nbsp; Studying Electrical Engineering at Illinois Institute of Technology
+- 📚 &nbsp; Interested in graphics programming as a hobby
 
 ### 📂 Current Projects
 - 🖥️ &nbsp; **Engine [[repo](https://github.com/lucix0/Engine)]:** A simple rendering engine created with OpenGL in C++
