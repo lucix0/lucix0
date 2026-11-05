@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Blair and I'm a 4th year electrical engineering student. My main focus is on power systems, but software development is a hobby of mine.
+
 
 <!--
 **lucix0/lucix0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
